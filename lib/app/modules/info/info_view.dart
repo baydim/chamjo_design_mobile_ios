@@ -315,16 +315,16 @@ class _InfoViewState extends State<InfoView> {
             ),
             dense: true,
           ),
-          // const SizedBox(
-          //   height: 20,
-          // ),
-          // const Divider(
-          //   height: 0,
-          //   color: orangeColor,
-          // ),
-          // const SizedBox(
-          //   height: 20,
-          // ),
+          const SizedBox(
+            height: 20,
+          ),
+          const Divider(
+            height: 0,
+            color: orangeColor,
+          ),
+          const SizedBox(
+            height: 20,
+          ),
           // ListTile(
           //   onTap: () {
           //     // ServiceNotification.debugShowNotif();
