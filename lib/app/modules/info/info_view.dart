@@ -325,26 +325,6 @@ class _InfoViewState extends State<InfoView> {
           const SizedBox(
             height: 20,
           ),
-          // ListTile(
-          //   onTap: () {
-          //     // ServiceNotification.debugShowNotif();
-          //   },
-          //   contentPadding: EdgeInsets.zero,
-          //   title: Text(
-          //     "Test Notif",
-          //     style: Theme.of(context).textTheme.titleSmall?.copyWith(
-          //           fontWeight: FontWeight.bold,
-          //           color: orangeColor,
-          //         ),
-          //     overflow: TextOverflow.ellipsis,
-          //   ),
-          //   trailing: const Icon(
-          //     Icons.open_in_new_rounded,
-          //     color: orangeColor,
-          //     size: 20,
-          //   ),
-          //   dense: true,
-          // ),
         ],
       ),
     );
